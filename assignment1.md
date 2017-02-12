@@ -50,3 +50,5 @@ Enrollment No.: | Name | Repo link
 150303105127 | Harsh Patel | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Harshpatel44)
 150303105134 | PATEL MILIN VIJAYKUMAR | [Repo](https://github.com/ParulProgrammingHub/assignment-1-milinpatel13298)
 150303105178 | Sumit Saini |[Repo](https://github.com/ParulProgrammingHub/assignment-1-Sumit7991.git)
+150303105083 | Karan Matlani | [Repo](https://github.com/ParulProgrammingHub/assignment-1-KaranMatlani.git)
+150303105084 | Mayank chawla | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Mayank-Chawla.git)
